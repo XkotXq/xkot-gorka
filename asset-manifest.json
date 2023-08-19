@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/xkot-gorka/static/css/main.055785f1.css",
-    "main.js": "/xkot-gorka/static/js/main.18f7a719.js",
+    "main.js": "/xkot-gorka/static/js/main.37d06aa6.js",
     "static/js/787.6cb20550.chunk.js": "/xkot-gorka/static/js/787.6cb20550.chunk.js",
     "index.html": "/xkot-gorka/index.html",
     "main.055785f1.css.map": "/xkot-gorka/static/css/main.055785f1.css.map",
-    "main.18f7a719.js.map": "/xkot-gorka/static/js/main.18f7a719.js.map",
+    "main.37d06aa6.js.map": "/xkot-gorka/static/js/main.37d06aa6.js.map",
     "787.6cb20550.chunk.js.map": "/xkot-gorka/static/js/787.6cb20550.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.055785f1.css",
-    "static/js/main.18f7a719.js"
+    "static/js/main.37d06aa6.js"
   ]
 }
