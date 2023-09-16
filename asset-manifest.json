@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xkot-gorka/static/css/main.89d99567.css",
+    "main.js": "/xkot-gorka/static/js/main.5044dcc9.js",
+    "static/js/787.6cb20550.chunk.js": "/xkot-gorka/static/js/787.6cb20550.chunk.js",
+    "index.html": "/xkot-gorka/index.html",
+    "main.89d99567.css.map": "/xkot-gorka/static/css/main.89d99567.css.map",
+    "main.5044dcc9.js.map": "/xkot-gorka/static/js/main.5044dcc9.js.map",
+    "787.6cb20550.chunk.js.map": "/xkot-gorka/static/js/787.6cb20550.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89d99567.css",
+    "static/js/main.5044dcc9.js"
+  ]
+}
